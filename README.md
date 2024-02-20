@@ -25,13 +25,14 @@ This GIMP plugin allows you to batch convert GIF files to WebP format. It provid
 ## Usage
 
 1. Open GIMP.
-2. Go to `Filters > Batch GIF to WebP...`.
-3. Configure the input and output folders, and adjust conversion settings as needed.
-4. Click "OK" to start the batch conversion process.
+2. Create a new image to make the plugin usable
+3. Go to `Plugins > Batch GIF to WebP...`.
+4. Configure the input and output folders, and adjust conversion settings as needed.
+5. Click "OK" to start the batch conversion process.
 
 ## Screenshots
 
-Include screenshots or GIFs demonstrating how to use the plugin if applicable.
+![Screenshot](batch-convert-gif-to-webp/screenshot.PNG)
 
 ## Contributing
 
