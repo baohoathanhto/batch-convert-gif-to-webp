@@ -30,7 +30,7 @@ This GIMP plugin allows you to batch convert GIF files to WebP format. It provid
 4. Configure the input and output folders, and adjust conversion settings as needed.
 5. Click "OK" to start the batch conversion process.
 
-## Screenshots
+## Screenshot
 
 ![Screenshot](screenshot.png)
 
